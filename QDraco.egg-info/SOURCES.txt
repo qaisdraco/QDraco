@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+QDraco/__init__.py
+QDraco/attack_patterns.py
+QDraco/validator.py
+QDraco.egg-info/PKG-INFO
+QDraco.egg-info/SOURCES.txt
+QDraco.egg-info/dependency_links.txt
+QDraco.egg-info/top_level.txt
+tests/test_validator.py
